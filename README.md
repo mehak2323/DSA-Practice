@@ -2,13 +2,13 @@
 
 A place to store some of my dsa practice questions. It can be used as a reference but not as a guide.
 
-- [Basic questions](Basic questions)
-- [Arrays and strings](Arrays and strings)
-- [Sorting Searching](Sorting Searching)
+- [Basic questions](Basic_questions)
+- [Arrays and strings](Arrays_and_strings)
+- [Sorting Searching](Sorting_Searching)
 - [Trees](Trees)
-- [Backtracking and recursion](Backtracking and recursion)
+- [Backtracking and recursion](Backtracking_and_recursion)
 - [Greedy](Greedy)
-- [Dynamic Programming](Dynamic Programming)
+- [Dynamic Programming](Dynamic_Programming)
 - [Graphs](Graphs)
 
 ## Useful links:
