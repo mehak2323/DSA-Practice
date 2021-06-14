@@ -1,6 +1,6 @@
 ﻿## Basic problems
 - [Reverse number](FLOW007.cpp): Reverse an integer
-- [Matrix Multiplication](MatrixMultiplication)
+- [Matrix Multiplication](MatrixMultiplication.cpp)
 
 ## Questions
 
