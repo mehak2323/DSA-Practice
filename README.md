@@ -5,6 +5,7 @@ A place to store some of my dsa practice questions. It can be used as a referenc
 - [Basic questions](Basic_questions)
 - [Arrays and strings](Arrays_and_strings)
 - [Sorting Searching](Sorting_Searching)
+- [Stack Queue LinkedList STL](Stack_Queue_LL_STL)
 - [Trees](Trees)
 - [Backtracking and recursion](Backtracking_and_recursion)
 - [Greedy](Greedy)
