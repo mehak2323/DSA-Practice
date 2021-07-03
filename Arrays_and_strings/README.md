@@ -6,6 +6,9 @@
 - [Pascal's Triangle](PascalTriangle.cpp)
 - [Next Permutation](NextPermutation.cpp)
 - [Repeating and Missing](RepeatingMissing.cpp)
+- [Rotate image/matrix](RotateImage.cpp)
+- [Search in 2D Matrix](Search2DMatrix.cpp)
+- [Majority element in array (>=n/2)](MajorityElement_nby2.cpp)
 
 # Strings
 - [Is Subsequence](IsSubsequence.cpp)
