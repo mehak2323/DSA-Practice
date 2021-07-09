@@ -9,6 +9,7 @@
 - [Rotate image/matrix](RotateImage.cpp)
 - [Search in 2D Matrix](Search2DMatrix.cpp)
 - [Majority element in array (>=n/2)](MajorityElement_nby2.cpp)
+- [Best time to buy and sell stock](BuyAndSellStock.cpp)
 
 # Strings
 - [Is Subsequence](IsSubsequence.cpp)
