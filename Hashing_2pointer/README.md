@@ -4,3 +4,4 @@
 
 ## 2 Pointer
 
+- [Remove duplicates from sorted array](RemoveDuplicateFromSortedArray.cpp)
