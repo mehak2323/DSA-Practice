@@ -75,6 +75,6 @@ Test Case:
     8,9
     4
 
-    Time Complexity: O(n*log n) //log n to sort and n for linear loop
+    Time Complexity: O(n*log n) //n log n to sort and n for linear loop
     Space Complexity: O(1) //sorted in same array
 */

@@ -5,3 +5,4 @@
 ## 2 Pointer
 
 - [Remove duplicates from sorted array](RemoveDuplicateFromSortedArray.cpp)
+- [Max consecutive ones](MaxConsecutiveOnes.cpp)
