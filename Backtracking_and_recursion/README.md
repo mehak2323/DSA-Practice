@@ -1,9 +1,9 @@
-﻿## Basics building
-- [Print Zig-Zag](PrintZigZag.cpp)
+﻿## Recursion
+- [Print Zig-Zag numbers (not rows one)](PrintZigZag.cpp)
 - [Tower of Hanoi](TowerOfHanoi.cpp)
+- [Subset Sums](SubsetSums.cpp)
+
+## Backtracking
+
 - [Floodfill](floodfill.cpp)
-
-## Other questions
-
-
 

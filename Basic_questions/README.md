@@ -1,6 +1,8 @@
 ﻿## Basic problems
 - [Reverse number](FLOW007.cpp): Reverse an integer
 - [Matrix Multiplication](MatrixMultiplication.cpp)
+- [Reverse String](ReverseString.cpp)
+- [String Palindrome or not](PalindromeString.cpp)
 
 ## Questions
 
