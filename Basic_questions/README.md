@@ -3,6 +3,7 @@
 - [Matrix Multiplication](MatrixMultiplication.cpp)
 - [Reverse String](ReverseString.cpp)
 - [String Palindrome or not](PalindromeString.cpp)
+- [Number Palindrome or not](PalindromeNumber.cpp)
 
 ## Questions
 
