@@ -4,6 +4,7 @@
 - [Reverse String](ReverseString.cpp)
 - [String Palindrome or not](PalindromeString.cpp)
 - [Number Palindrome or not](PalindromeNumber.cpp)
+- [Palindrome valid or not](ValidPalindrome.cpp)
 
 ## Questions
 
