@@ -1,7 +1,10 @@
 # DSA-Practice
 
-A place to store some of my dsa practice questions.
+A place to store some of my dsa practice questions. </br>
+Not updating this for a while, you can refer to the links in Useful Links tab to get questions to practice. </br>
+Currently following [Kunal's DSA+Java Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) and doing it's assignments given on his [github](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java), which can also be referred. 
 
+Repo contents:
 - [Basic questions](Basic_questions)
 - [Arrays and strings](Arrays_and_strings)
 - [Sorting Searching](Sorting_Searching)
