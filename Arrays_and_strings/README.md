@@ -13,5 +13,6 @@
 
 # Strings
 - [Is Subsequence](IsSubsequence.cpp)
+- [Valid Parentheses](ValidParentheses.md)
 
 
