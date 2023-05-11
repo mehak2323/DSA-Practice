@@ -13,6 +13,6 @@
 
 # Strings
 - [Is Subsequence](IsSubsequence.cpp)
-- [Valid Parentheses](ValidParentheses.md)
-
+- [Valid Parentheses](ValidParentheses.md) //To move to stacks
+- [Valid Palindrome](ValidPalindrome.md)
 
