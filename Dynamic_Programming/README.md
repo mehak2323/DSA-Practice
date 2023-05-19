@@ -1,11 +1,21 @@
-﻿## Basics building
+## Questions
+
+- [Longest increasing subsequence](LongestIncreasingSubsequence.cpp)
+- [Longest Common Subsequence](LongestCommonSubsequence.cpp)
+- [Rod Cutting Problem](RodCuttingProblem.cpp)
+- [Maximum Length of Repeated Subarray](MaxLenOfRepeatedSubarray.cpp)
+- [Unique Paths b/w start and end of matrix](UniquePaths.cpp)
+- [Buy Sell Stock 1](BuySellStock1.md)
+
+
+## Previous List
 
 Basic Problems 
 - Fibonacci Problem
 - Staircase Problem
 
 1d Array Problems
-- [Longest increasing subsequence](LongestIncreasingSubsequence.cpp)
+- Longest increasing subsequence
 - Minimum Jumps To Reach End
 - Loot Houses
 
@@ -14,7 +24,7 @@ Basic Problems
 - 0-1 Knapsack
 
 Strings
-- [Longest Common Subsequence](LongestCommonSubsequence.cpp)
+- Longest Common Subsequence
 - Edit Distance
 - Find if a string is interleaved of two other strings
 
@@ -31,14 +41,8 @@ Mathematical Problems
 - Best Time To Buy And Sell Stock
 
 Standard problems
-- [Rod Cutting Problem](RodCuttingProblem.cpp)
+- Rod Cutting Problem
 - Count Palindromic Subsequences
 - Longest Palindromic Substring
 - Optimal BST
 - Distinct Subsequences
-
-## Other questions
-
-- [Maximum Length of Repeated Subarray](MaxLenOfRepeatedSubarray.cpp)
-- [Unique Paths b/w start and end of matrix](UniquePaths.cpp)
-
